@@ -115,6 +115,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 *MySQL deployment tools*
 
+- [dbdeployer](https://github.com/ProxySQL/dbdeployer) - A tool that installs one or more MySQL servers within seconds, easily, securely, and with full control.
 - [MariaDB4j](https://github.com/MariaDB4j/MariaDB4j) - A Java launcher to run MariaDB without installation or external dependencies.
 
 
@@ -161,7 +162,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 - [Galera Cluster](https://github.com/codership/galera) - a true Multimaster Cluster based on synchronous replication.
 - [mha4mysql-node](https://github.com/yoshinorim/mha4mysql-node) and [mha4mysql-manager](https://github.com/yoshinorim/mha4mysql-manager) (both unmaintained) - Master High Availability Manager and tools for MySQL.
-- [Orchestrator](https://github.com/openark/orchestrator) (archived) - MySQL replication topology management and High Availability solution.
+- [Orchestrator](https://github.com/ProxySQL/orchestrator) - MySQL replication topology management and High Availability solution.
 - [Percona Replication Manager](https://github.com/percona/replication-manager) - Asynchronous MySQL replication manager agent for Pacemaker. Supports file and GTID based replication, geo-distributed clusters using booth.
 - [replication-manager](https://github.com/signal18/replication-manager) - a high availability solution to manage MariaDB 10.x and MySQL & Percona Server 5.7 GTID replication topologies.
 
